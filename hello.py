@@ -6,3 +6,5 @@ print("-----changed------")
 
 print("on the master")
 print("on the hotfix")
+
+print("add one line on github")
